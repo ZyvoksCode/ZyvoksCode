@@ -9,7 +9,7 @@
 <br />
 
 
-I am a passionate self-taught programmer from Bangladesh.
+I am a passionate self-taught programmer from The United States
  - 💎 I’m currently learning TypeScript
 - 💬 Ask me about anything [here](https://discord.gg/2j4Ap45)
 - 📫 My Discord? Zyvok#9999
