@@ -1,16 +1,22 @@
-### Hi there 👋
+### Zyvok's Informantion! 👊🏼
+<a href="https://discord.gg/2j4Ap45">
+  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+ <a href="https://github.com/ZyvoksCode">
+  <img align="left" alt="Zyvok's Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<!--
-**ZyvoksCode/ZyvoksCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate self-taught programmer from Bangladesh.
+ - 💎 I’m currently learning TypeScript
+- 💬 Ask me about anything [here](https://discord.gg/2j4Ap45)
+- 📫 My Discord? Zyvok#9999
+- 🎁 2020 Goals: Post more Open Source projects
+
+**Languages and Tools:** &nbsp;
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+ <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <br />
+
