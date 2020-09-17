@@ -11,7 +11,7 @@
 
 I am a passionate self-taught programmer from The United States
  - 💎 I’m currently learning TypeScript
-- 💬 Ask me about anything [here](https://discord.gg/2j4Ap45)
+- 💬 Ask me about anything [here](https://discord.gg/QEtuU3b)
 - 📫 My Discord? Zyvok#9999
 - 🎁 2020 Goals: Post more Open Source projects
 
