@@ -1,5 +1,5 @@
 ### Zyvok's Informantion! 👊🏼
-<a href="https://discord.gg/2j4Ap45">
+<a href="">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://github.com/ZyvoksCode">
